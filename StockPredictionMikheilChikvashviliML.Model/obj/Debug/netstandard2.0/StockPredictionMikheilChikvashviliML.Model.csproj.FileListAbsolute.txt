@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\bin\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.deps.json
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\bin\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.dll
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\bin\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.pdb
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.AssemblyInfo.cs
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.dll
+C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashviliML.Model\obj\Debug\netstandard2.0\StockPredictionMikheilChikvashviliML.Model.pdb
