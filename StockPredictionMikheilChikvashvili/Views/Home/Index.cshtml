@@ -1,0 +1,88 @@
+﻿@model StockPredictionMikheilChikvashviliML.Model.ModelInput
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <canvas id="myChart" width="1000" height="600"></canvas>
+    @{
+
+        @using System.Data.SqlClient;
+        @using System.Web.Helpers;
+
+        SqlCommand com = new SqlCommand();
+        SqlConnection con = new SqlConnection();
+        SqlDataReader dr;
+
+        con.ConnectionString = StockPredictionMikheilChikvashvili.Properties.Resources.ConnectionString;
+        List<ModelInput> stocks = new List<ModelInput>();
+
+        
+        con.Open();
+        com.Connection = con;
+        com.CommandText = "SELECT [Date], [Close] FROM [Stocks].[dbo].[AppleStock]";
+        dr = com.ExecuteReader();
+        @if(stocks.Count>0)
+        {
+            stocks.Clear();
+        }
+        @while(dr.Read())
+        {
+            stocks.Add(new ModelInput() { Date = dr["Date"].ToString(), Close = decimal.ToSingle((decimal)dr["Close"]) });
+        }
+        con.Close();
+    };
+    
+<script type="text/javascript">
+    var data = {};
+
+    console.log(data);
+    const ctx = document.getElementById('myChart').getContext('2d');
+
+    @foreach (var stock in stocks)
+        {
+            @: var obj = { '@stock.Date.ToString()' : @stock.Close};
+            @:data =  Object.assign(data, obj);
+         };
+    const myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: Object.keys(data),
+            datasets: [
+                {
+                    label: 'AppleStocks',
+                    data: Object.values(data),
+                },
+            ],
+        }
+    });
+
+
+</script>
+    <button type="button" class="btn btn-primary">Predict</button>
+    <div>
+        <p class="">
+            @{
+                @using Microsoft.AspNetCore.Mvc;
+                @using StockPredictionMikheilChikvashviliML.Model;
+
+                ModelInput sampleData = new ModelInput()
+                {
+                    Open = 167.389999F,
+                    High = 171.039993F,
+                    Low = 166.770004F,
+                    Volume = 70618900F,
+                };
+                var predictionResult = ConsumeModel.Predict(sampleData);
+
+                var result = predictionResult.Score;
+
+            }
+            Prediction Result:@result;
+
+        </p>
+
+    </div>
+
+</div>
+
