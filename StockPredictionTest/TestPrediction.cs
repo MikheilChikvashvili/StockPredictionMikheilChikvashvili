@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.IO;
 using StockPredictionMikheilChikvashviliML.Model;
@@ -7,7 +7,7 @@ using System.Linq;
 namespace StockPredictionTest
 {
     [TestClass]
-    public class PredictionTest
+    public class TestPrediction
     {
 
         [TestMethod]
