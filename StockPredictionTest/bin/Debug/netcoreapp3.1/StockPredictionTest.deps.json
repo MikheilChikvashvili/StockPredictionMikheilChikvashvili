@@ -14,8 +14,7 @@
           "StockPredictionMikheilChikvashvili": "1.0.0",
           "StockPredictionMikheilChikvashviliML.ConsoleApp": "1.0.0",
           "StockPredictionMikheilChikvashviliML.Model": "1.0.0",
-          "coverlet.collector": "3.0.2",
-          "Interop.Microsoft.Office.Interop.Excel": "1.9.0.0"
+          "coverlet.collector": "3.0.2"
         },
         "runtime": {
           "StockPredictionTest.dll": {}
