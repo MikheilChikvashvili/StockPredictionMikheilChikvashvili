@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj": {}
+    "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj": {
+    "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj",
         "projectName": "StockPredictionMikheilChikvashviliML.Model",
-        "projectPath": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\StockPredictionMikheilChikvashviliML.Model.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

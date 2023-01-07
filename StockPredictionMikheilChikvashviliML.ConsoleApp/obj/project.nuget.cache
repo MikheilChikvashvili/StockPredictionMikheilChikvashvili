@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1D4/Q5b8ZgHD3B6F8bDcvuV8rhvm6NNeAzUQ8u8aXpD87olntDqlpwl/mG0JcmHVrvoe0l2BwVApiamCTkAnjA==",
+  "dgSpecHash": "+QhrqsqTQIpimWms0yD4j13ZQJqCAQ+SZHttpbYPGToQH9AuN9tGdCsEig/acgvto7DRPlROYA7jKHf2QsYO8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.ConsoleApp\\StockPredictionMikheilChikvashviliML.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashviliML.ConsoleApp\\StockPredictionMikheilChikvashviliML.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.ml\\1.5.0-preview2\\microsoft.ml.1.5.0-preview2.nupkg.sha512",

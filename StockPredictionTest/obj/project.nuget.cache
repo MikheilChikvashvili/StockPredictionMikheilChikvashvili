@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tntlABkn9EumhC/gtcjXtc48r+CK1z7m/KcaaGoNURm4vl/AT7r2TNfkkLYBBZm3865gAV2c8EpGbpxIO82lQ==",
+  "dgSpecHash": "y0zVwoErUKvaGZG8zpNaQvqBW2iqb2ZL3K9ziPRX6iIr2RyXQvoteaYUMpPODggI74CvJqqVeMr+Mtja24nOyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionTest\\StockPredictionTest.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionTest\\StockPredictionTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",

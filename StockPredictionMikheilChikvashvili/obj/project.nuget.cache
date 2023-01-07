@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CGN5FNMKOAa+DMgGPApR0WJx2oW7cg5NBOhWuPziNb90ylK5OaB00gftmRE9K36mgMbxs1nS6LUvQ3beNdOtUQ==",
+  "dgSpecHash": "dAOgfAaOT2eu1EvZRlqAS+oQ3R17T58MofwM83CPh3/PcB51edssn5BXvHkIFbwl9nddYiy0SjL6tywTy9Y54w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashvili.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashvili\\StockPredictionMikheilChikvashvili.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
