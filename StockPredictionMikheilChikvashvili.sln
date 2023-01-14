@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockPredictionMikheilChikv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockPredictionMikheilChikvashviliML.ConsoleApp", "StockPredictionMikheilChikvashviliML.ConsoleApp\StockPredictionMikheilChikvashviliML.ConsoleApp.csproj", "{3CCD57C9-E0FB-43ED-8978-83C2BC9425D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPredictions", "TestPredictions\TestPredictions.csproj", "{AAF670C0-CFA2-45A4-ACB7-8D3BCF847F9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPredictionTest", "StockPredictionTest\StockPredictionTest.csproj", "{64E09A75-56C1-437A-B724-8E626A8EEB7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{3CCD57C9-E0FB-43ED-8978-83C2BC9425D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CCD57C9-E0FB-43ED-8978-83C2BC9425D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CCD57C9-E0FB-43ED-8978-83C2BC9425D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAF670C0-CFA2-45A4-ACB7-8D3BCF847F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAF670C0-CFA2-45A4-ACB7-8D3BCF847F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAF670C0-CFA2-45A4-ACB7-8D3BCF847F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAF670C0-CFA2-45A4-ACB7-8D3BCF847F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E09A75-56C1-437A-B724-8E626A8EEB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E09A75-56C1-437A-B724-8E626A8EEB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E09A75-56C1-437A-B724-8E626A8EEB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E09A75-56C1-437A-B724-8E626A8EEB7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

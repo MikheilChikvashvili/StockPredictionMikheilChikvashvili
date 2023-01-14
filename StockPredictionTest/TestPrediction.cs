@@ -4,10 +4,10 @@ using System.IO;
 using StockPredictionMikheilChikvashviliML.Model;
 using System.Linq;
 
-namespace TestPredictions
+namespace StockPredictionTest
 {
     [TestClass]
-    public class PredictionTest
+    public class TestPrediction
     {
 
         [TestMethod]
