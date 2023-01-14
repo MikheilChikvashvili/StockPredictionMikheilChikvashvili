@@ -204,8 +204,6 @@ C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMik
 C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.csproj.ResolveComReference.cache
 C:\Users\user\source\repos\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
-C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.csproj.ResolveComReference.cache
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.Properties.Resources.resources
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.csproj.GenerateResource.cache
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.GeneratedMSBuildEditorConfig.editorconfig
@@ -394,7 +392,6 @@ C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredict
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\bin\Debug\netcoreapp3.1\StockPredictionMikheilChikvashviliML.Model.dll
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\bin\Debug\netcoreapp3.1\StockPredictionMikheilChikvashviliML.Model.pdb
-C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\StockPredictionMikheilChikvashvili.RazorCoreGenerate.cache
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\user\Desktop\New folder\StockPredictionMikheilChikvashvili\StockPredictionMikheilChikvashvili\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
