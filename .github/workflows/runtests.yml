@@ -11,7 +11,5 @@ jobs:
         uses: microsoft/setup-msbuild@v1.1
       - name: Build
         run: msbuild  -t:restore -p:RestorePackagesConfig=true
-      - name: Find
-        run: dir * "\StockPredictionTests.dll" /s
       - name: Run tests
-        run: dotnet test --no-build 
+        run: dotnet test "StockPredictionTest\StockPredictionTest.csproj" --no-build 
