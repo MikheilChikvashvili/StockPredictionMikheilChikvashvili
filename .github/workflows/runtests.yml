@@ -12,4 +12,5 @@ jobs:
       - name: Build
         run: msbuild  -t:restore -p:RestorePackagesConfig=true
       - name: Run tests
-        run: dotnet test --no-build 
+        run: dotnet test 
+        #--no-build 
