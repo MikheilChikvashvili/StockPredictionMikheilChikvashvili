@@ -12,4 +12,4 @@ jobs:
       - name: Build
         run: msbuild  -t:restore -p:RestorePackagesConfig=true
       - name: Run tests
-        run: dotnet test "StockPredictionTest\StockPredictionTest" --no-build 
+        run: dotnet test "StockPredictionTest\StockPredictionTest.csproj" --no-build 
