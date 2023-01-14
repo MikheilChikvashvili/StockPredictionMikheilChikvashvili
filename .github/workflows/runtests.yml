@@ -12,6 +12,6 @@ jobs:
       - name: Build
         run: msbuild  -t:restore -p:RestorePackagesConfig=true
       - name: Find
-        run: grep -r "StockPredictionTests.dll" *
+        run: dir "\StockPredictionTests.dll" /s *
       - name: Run tests
         run: dotnet test --no-build 
