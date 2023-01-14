@@ -11,7 +11,7 @@ namespace StockPredictionTest
     {
 
         [TestMethod]
-        public void TestMethod1()
+        public void StockPredictionTest()
         {
             var reader = new StreamReader(@"..\..\..\MacroTrends_Data_Download_AAPLCSV.csv");
 
